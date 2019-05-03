@@ -135,7 +135,7 @@ The feedback that should be given is…
 
 **I am an introvert** and that means that extended time with other humans is exhausting. Some times I'm quiet, but do not confuse my quiet with lack of engagement.
 
-**I’m big on work/life balance.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or email’s off hours, unless it’s a high alert emergency.
+**Work/Life Balance is important to me.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or email’s off hours, unless it’s a high alert emergency.
 
 ## **Finally…**
 
