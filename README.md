@@ -1,17 +1,15 @@
 
-Hi, I’m Eric Musso - Engineering Manager
+Hi, I’m Eric Musso
 
 ## **What is this?**
 
-This is my personal user guide.  Hopefully, this will help as way to introduce me as a human, answer some likely questions and set exceptions about what you can depend on from me as your coworker.
+This is my personal user guide for me and how I work. My intent is to accelerate our working relationship with this document. It captures what you can expect out of the average week working with me, how I like to work, my guiding principles, and some of my personal characteristics.
 
 This will not be laying out any plans for the organization and its products.
 
 I just got here. I don’t know much yet
 
 **Important**: This is NOT meant as a replacement for actually getting to know each other.
-
-This is my personal user guide for me and how I work. My intent is to accelerate our working relationship with this document. It captures what you can expect out of the average week working with me, how I like to work, my guiding principles, and some of my personal characteristics.
   
 
 ## **A Typical Week**
@@ -28,11 +26,11 @@ I take vacations. You should, too! Disconnect from work and let your mind and bo
 
 ## **My Guiding Principles**
 
-**Humans First.** I believe that happy, informed, and productive humans build great products. Other leaders will maximize the business, the technology, or any other number of important facets. All perspectives are relevant, but my bias is towards building productive humans.
+**Humans First.** I believe that happy, informed, and productive humans build great products. I'm biased towards building productive humans, others will maximize the business, the technology, or any other number of important aspects. All perspectives are relevant. 
 
 **Leadership comes from everywhere.** I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I will work hard to establish opportunities in our teams for everyone to effectively lead.
 
-**Empathy**. Connecting with your customer’s emotions is incredibly important to building the best product that we can. Having empathy for your co-workers will help us to build strong teams. Empathy can help you solve problems that are important to the users and developers. It can also strengthen collaboration and improve the working space for everyone.
+**Empathy**. Empathizing doesn’t mean you have to feel the same thing, think the same way, make the other person feel better, or fix the situation so everyone is happy. Demonstrating empathy means you listen, acknowledge, and accept feelings and points of view as legitimate. Empathy is fundamentally about respect. Having empathy for your co-workers will help us build strong teams.
 
 **Critical thinking.** We don’t do anything “because we’ve always done it that way”. If you don’t like something, change it. If you can’t change it, change the way you think about it.
 
@@ -53,7 +51,8 @@ At minimum…
 -   Set up teams for success and autonomy.
 -   Collect and share context from across product/domain lines.
 -   Attract, retain and grow high performing individuals and teams.
--   Foster a culture of passion, innovation and collaboration.
+-   Foster a culture of creativity, innovation and collaboration.
+-   looking at the environment and trying to continuously improve it.
 -   Write some code too! I’m a developer and love to be involved. As a manager, I don’t stop coding or learning.
 
 If I do something that negatively impacts my ability to retain you, do me a huge favor and let me know about it, as soon as possible!
@@ -78,19 +77,27 @@ If I describe my ideal for our team and each person on it, it is that we:
 -   have each other’s back
 -   hold each other accountable
 -   expect excellence in ourselves and each other
--   assume positive intent
--   always question, always ask “why?”
+-   hightlight the positive
+-   always ask “why?”
 -   constantly learn
--   laugh together  
+-   laugh together 
     
-
 You’re here because of your experience and your skills and I don’t want to override either of those. I’m here to help you succeed but not dictate how you should act.
 
-Disagreeing with my input does not indicate that you’re doing something wrong.
+Disagreeing with my input does not indicate anything is wrong.
 
-You’ll still need to get consensus, agreement, and input from your teammates.
+You’ll still need to get consensus and input from your teammates.
 
-  
+## **Remote Culture**
+
+I fully support a remote culture. There are days I will choose to work remotely and days that I will be in the office. I would expect you all like to do the same. I would like us to make sure we create a healthy remote culture that works for everyone. 
+
+Rules to live by:
+-  Always expect positive intent. Tone can be lost over chat so assume your colleague is coming from a positve place. 
+-  Keep important information accessible for everyone. Overcommunicate if you need to. 
+-  Embrace asynchronous communication. 
+-  Expect structure with meetings and processes to support a remote team. 
+-  All remote team members are equal.  
 
 ## **One-on-One’s**
 
@@ -126,7 +133,7 @@ The feedback that should be given is…
 
 **I have a family.** A wife, 2 kids and a solid set of noise cancelling headphones. I often arrive at work around 9am-ish and occasionally have to leave early to pick up my kids from child care. I am a WNY native and I love living in Buffalo. I’ve left a few times, but have found my way back. Buffalo is unique and has a lot to offer and I’m excited to keep growing the tech community here.
 
-**I am an introvert** and that means that extended exposure to other humans is exhausting for me. Some times I'm quiet, but do not confuse my quiet with lack of engagement.
+**I am an introvert** and that means that extended time with other humans is exhausting. Some times I'm quiet, but do not confuse my quiet with lack of engagement.
 
 **I’m big on work/life balance.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or email’s off hours, unless it’s a high alert emergency.
 
