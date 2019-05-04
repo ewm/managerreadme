@@ -93,7 +93,7 @@ You’ll still need to get consensus and input from your teammates.
 I fully support a remote culture. There are days I will choose to work remotely and days that I will be in the office. I would expect you all like to do the same. I would like us to make sure we create a healthy remote culture that works for everyone. 
 
 Rules to live by:
--  Always expect positive intent. Tone can be lost over chat so assume your colleague is coming from a positve place. 
+-  Always expect positive intent. Tone can be lost over chat so assume your colleague is coming from a positive place. 
 -  Keep important information accessible for everyone. Overcommunicate if you need to. 
 -  Embrace asynchronous communication. 
 -  Expect structure with meetings and processes to support a remote team. 
@@ -135,7 +135,7 @@ The feedback that should be given is…
 
 **I am an introvert** and that means that extended time with other humans is exhausting. Some times I'm quiet, but do not confuse my quiet with lack of engagement.
 
-**Work/Life Balance is important to me.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or email’s off hours, unless it’s a high alert emergency.
+**Work/Life Balance is important to me.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or emails off hours, unless it’s a high alert emergency.
 
 ## **Finally…**
 
