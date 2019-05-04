@@ -77,7 +77,7 @@ If I describe my ideal for our team and each person on it, it is that we:
 -   have each other’s back
 -   hold each other accountable
 -   expect excellence in ourselves and each other
--   hightlight the positive
+-   highlight the positive
 -   always ask “why?”
 -   constantly learn
 -   laugh together 
