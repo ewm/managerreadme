@@ -14,7 +14,7 @@ I just got here. I don’t know much yet
 
 ## **A Typical Week**
 
-Depending on your schedule, some people start early, some later and go home accordingly. You can work from home when you need quiet time (please don’t abuse it), just let the team know and stay engaged. You should manage your own time, not me. I take advantage of this perk quite often.
+Depending on your schedule, some people start early, some later and go home accordingly. You can work from home when you need quiet time, just let the team know and stay engaged. You should manage your own time, not me. I take advantage of this perk quite often.
 
 We’ll have a 1:1 every week for at least 30 minutes. This meeting discusses topics of substance, not status updates on projects (more info later).
 
