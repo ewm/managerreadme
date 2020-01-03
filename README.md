@@ -14,7 +14,7 @@ This will not be laying out any plans for the organization and its products.
 
 Depending on your schedule, some people start early, some later and go home accordingly. You can work from home when you need quiet time, just let the team know and stay engaged. You should manage your own time, not me. I take advantage of this perk quite often.
 
-We’ll have a 1:1 every week for at least 30 minutes. This meeting discusses topics of substance, not status updates on projects (more info later).
+We’ll have a 1:1 every week (or bi-weekly) for at least 30 minutes. This meeting discusses topics of substance, not status updates on projects (more info later).
 
 You can Slack anytime you need. I’ll respond as quickly as I can.
 
