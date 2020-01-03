@@ -7,8 +7,6 @@ This is my personal user guide for me and how I work. My intent is to accelerate
 
 This will not be laying out any plans for the organization and its products.
 
-I just got here. I don’t know much yet
-
 **Important**: This is NOT meant as a replacement for actually getting to know each other.
   
 
