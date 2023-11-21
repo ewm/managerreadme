@@ -59,7 +59,7 @@ If I do something that feels more like telling you how to do your job than setti
 
 ## **My Assumptions**
 
-**You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: Trying to gather context OR trying to be a sounding board.
+**You’re good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: Trying to gather context OR trying to be a sounding board.
 
 **I’m not good at your job.** You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
 
