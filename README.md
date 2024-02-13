@@ -16,9 +16,9 @@ Depending on your schedule, some people start early, some later and go home acco
 
 We’ll have a 1:1 every week (or bi-weekly) for at least 30 minutes. This meeting discusses topics of substance, not status updates on projects (more info later).
 
-You can Slack anytime you need. I’ll respond as quickly as I can.
+You can message me anytime you need. I’ll respond as quickly as I can.
 
-I sometimes work on the weekends/nights. This is my personal choice. I do not expect that you are going to work on the weekend. I might Slack you things, but unless its urgent, it can always wait until work begins for you on Monday.
+I sometimes work on the weekends/nights. This is my personal choice. I do not expect that you are going to work on the weekend. I might message you things, but unless its urgent, it can always wait until work begins for you on Monday.
 
 I take vacations. You should, too! Disconnect from work and let your mind and body recharge.
 
@@ -129,12 +129,12 @@ The feedback that should be given is…
 
 ## **Stuff to know**
 
-**I have a family.** A wife, 2 kids and a solid set of noise cancelling headphones. I often arrive at work around 9am-ish and occasionally have to leave early to pick up my kids from child care. I am a WNY native and I love living in Buffalo. I’ve left a few times, but have found my way back. Buffalo is unique and has a lot to offer and I’m excited to keep growing the tech community here.
+**I have a family.** A wife, 2 kids and a solid set of noise cancelling headphones. I often arrive at work around 9am-ish and occasionally have to leave early to pick up my kids from school. I am a WNY native and I love living in Buffalo. I’ve left a few times, but have found my way back. Buffalo is unique and has a lot to offer and I’m excited to keep growing the tech community here.
 
 **I am an introvert** and that means that extended time with other humans is exhausting. Some times I'm quiet, but do not confuse my quiet with lack of engagement.
 
-**Work/Life Balance is important to me.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to Slack or emails off hours, unless it’s a high alert emergency.
+**Work/Life Balance is important to me.** I don’t expect to communicate with you outside business hours with respect to your local time. Under no circumstances do I expect you to respond to instant messages or emails off hours, unless it’s a high alert emergency.
 
 ## **Finally…**
 
-This document is a living breathing thing and likely incomplete. I update it frequently and would appreciate your feedback.
+This document is a living breathing thing and likely incomplete.
